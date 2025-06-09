@@ -1,5 +1,7 @@
 # React TypeScript Web App
 
+-[DEMO LINK](https://denlysiak.github.io/react_nice_gadget_store/)
+
 The Nice Gadget Store is a responsive, single-page application developed using React and TypeScript. It offers a comprehensive catalog of electronic products, including phones, tablets, and accessories. The application provides users with features such as product browsing, detailed views, shopping cart management, and the ability to mark favorites. This project exemplifies key concepts in React development, including component-based architecture, state management, routing, and responsive design. It's an excellent reference for developers looking to understand the practical implementation of a dynamic, user-friendly e-commerce interface using React.
 
 🔍 Overview
